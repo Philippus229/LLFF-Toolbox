@@ -10,4 +10,4 @@ Allows people to try out Fyusion's Local Light Field Fusion code without high-en
 ![test000_video](https://user-images.githubusercontent.com/16673652/82851039-c7d92500-9efe-11ea-9b54-a59a3096d3ed.gif)
 
 ## Credits
-Fyusion for their LLFF code: https://github.com/Fyusion/LLFF
+Fyusion for Local Light Field Fusion: https://github.com/Fyusion/LLFF
