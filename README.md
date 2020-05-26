@@ -1,2 +1,10 @@
-# LLFF-Toolbox
-Google Colaboratory Demo of Fyusion's Local Light Field Fusion
+# LLFF Toolbox
+Allows people to test Fyusion's Local Light Field Fusion without high-end hardware.
+
+## Usage
+1. Create a folder named "LLFF_data" in your Google Drive containing the subfolders "in" and "out"
+2. To generate an MPI from multiple images, copy them into a new folder called "images" in the previously created "in"
+3. Then just open the Jupyter Notebook in Colab and follow the instructions there
+
+## Credits
+Fyusion for their LLFF code: https://github.com/Fyusion/LLFF
