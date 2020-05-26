@@ -6,5 +6,8 @@ Allows people to test Fyusion's Local Light Field Fusion without high-end hardwa
 2. To generate an MPI from multiple images, copy them into a new folder called "images" in the previously created "in"
 3. Then just open the Jupyter Notebook in Colab and follow the instructions there
 
+### Example
+![test000_video](https://user-images.githubusercontent.com/16673652/82851039-c7d92500-9efe-11ea-9b54-a59a3096d3ed.gif)
+
 ## Credits
 Fyusion for their LLFF code: https://github.com/Fyusion/LLFF
