@@ -1,5 +1,5 @@
 # LLFF Toolbox
-Allows people to test Fyusion's Local Light Field Fusion code without high-end hardware.
+Allows people to try out Fyusion's Local Light Field Fusion code without high-end hardware.
 
 ## Usage
 1. Create a folder named "LLFF_data" in your Google Drive containing the subfolders "in" and "out"
