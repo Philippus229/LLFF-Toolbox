@@ -7,7 +7,7 @@ Allows people to try out Fyusion's Local Light Field Fusion code without high-en
 3. Then just open the Jupyter Notebook in Colab and follow the instructions there
 
 ### Example
-![test000_video](https://user-images.githubusercontent.com/16673652/82851039-c7d92500-9efe-11ea-9b54-a59a3096d3ed.gif)
+![test002_gif](https://user-images.githubusercontent.com/16673652/83293768-82fa0a80-a1ec-11ea-9ca7-44d2e9821135.gif)
 
 ## Credits
 Fyusion for Local Light Field Fusion: https://github.com/Fyusion/LLFF
